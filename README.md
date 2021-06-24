@@ -14,6 +14,6 @@
 - 打开深圳疾控疫苗预约界面
 
 
-<img src="book.png" width="30%">
+<img src="book.png" width="60%">
 
 
